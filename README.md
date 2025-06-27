@@ -19,3 +19,6 @@ It showcases how you might record and list employee shifts using a modern Larave
 * **Blade** templates, **Eloquent** ORM, **Carbon** for dates
 * Runs on macOS, Linux or WSL2 (tested on macOS 13)
 
+Visit:
+http://localhost:8000/shifts → view all shifts
+http://localhost:8000/shifts/create → create a new shift
